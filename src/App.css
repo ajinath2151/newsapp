@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+ /* use this for better style */
+      /* div.sticky {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0;
+        padding: 5px;
+        background-color: #dde6dd;
+        border: 2px solid #1de92b;
+      }
+       */
